@@ -1,6 +1,6 @@
 # 🛠 My Portfolio - Back-End (Node.js + Express)
 
-This is the back-end API for my personal portfolio website. It serves endpoints for projects, personal info, and contact messages. Built with Node.js and Express, it can be used with a MongoDB or SQL-based database.
+This is the back-end API for my personal portfolio website. It serves endpoints for contact messages. Built with Node.js and Express.
 
 ## 🚀 Tech Stack
 
